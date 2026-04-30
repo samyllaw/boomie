@@ -188,6 +188,6 @@ body {
   .hero { padding: 0 24px; }
   .services { padding: 0 24px 60px; }
   .service { grid-template-columns: 1fr; gap: 8px; }
-  .contact { padding: 60px 24px; }
+  .contact { padding: 0px 24px 60px; }
   .footer { padding: 20px 24px; flex-direction: column; gap: 16px; align-items: flex-start; }
 }
